@@ -1,4 +1,5 @@
-##Ethan Tai
+## Ethan Tai
+
 Junior Student at Washington and Lee University
 Compouter Science and Mathematics Major
 
